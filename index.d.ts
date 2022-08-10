@@ -1,4 +1,4 @@
-declare module "react-native-cross-settings" {
+declare module "react-native-multiplatform-settings" {
 
   export type SettingsTypes = string | number | boolean | null;
 

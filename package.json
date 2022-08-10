@@ -1,5 +1,5 @@
 {
-  "name": "react-native-cross-settings",
+  "name": "react-native-multiplatform-settings",
   "description": "React Native `Settings` module for both Android & iOS.",
   "version": "2.1.0",
   "license": "MIT",
@@ -15,21 +15,18 @@
     "android",
     "ios"
   ],
-  "scripts": {
-    "test": "echo Ops!"
-  },
-  "homepage": "https://github.com/aMarCruz/react-native-cross-settings",
+  "homepage": "https://github.com/relate-app/react-native-multiplatform-settings",
   "bugs": {
-    "url": "https://github.com/aMarCruz/react-native-cross-settings/issues"
+    "url": "https://github.com/relate-app/react-native-multiplatform-settings/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aMarCruz/react-native-cross-settings.git"
+    "url": "https://github.com/relate-app/react-native-multiplatform-settings.git"
   },
   "dependencies": {
-    "invariant": "^2.2.3"
+    "invariant": "^2.2.4"
   },
   "peerDependencies": {
-    "react-native": ">=0.57.0"
+    "react-native": ">=0.66.1"
   }
 }
